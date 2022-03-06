@@ -1,0 +1,5 @@
+controllers\LibroController.class
+models\Libro.class
+repositories\LibroRepository.class
+com\example\PracticaAPIREST\PracticaApirestApplication.class
+services\LibroService.class
